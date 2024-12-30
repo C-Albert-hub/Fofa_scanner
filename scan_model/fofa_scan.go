@@ -15,7 +15,7 @@ import (
 
 const (
 	apiUrl = "https://fofa.info/api/v1/search/all"
-	apiKey = "125228bf3256f2568dd5c45ec875c216"
+	apiKey = ""
 )
 
 // FofaQuery 利用fofa API 执行 IP 查询并保存响应为单独的 JSON 文件
